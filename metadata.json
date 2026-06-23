@@ -1,0 +1,6 @@
+{
+  "name": "Electric Avenue IOW",
+  "description": "Professional electrical services based on the Isle of Wight. Expert electricians in Newport for rewires, installations, and repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
